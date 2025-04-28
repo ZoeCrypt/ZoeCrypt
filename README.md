@@ -3,6 +3,8 @@
 
 
 <h5 align="left">Languages</h5>
-- C#
-- C
-- Python
+<ul>
+  C#,
+  C,
+  Python
+</ul>
