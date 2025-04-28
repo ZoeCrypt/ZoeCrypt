@@ -4,7 +4,7 @@
 
 <h5 align="left">Languages</h5>
 <ul>
-  C#,
-  C,
-  Python
+  <li> C# </li>
+  <li> C </li>
+  <li> Python </li>
 </ul>
